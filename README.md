@@ -11,4 +11,4 @@ I'm passionate about web development using Python, Django, Django Rest Framework
 - JavaScript
 
 ## GitHub Commit Activity
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/lucaswill/lucaswill)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/lucaswillblumenau/lucaswillblumenau)
