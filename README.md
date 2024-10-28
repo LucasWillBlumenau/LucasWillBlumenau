@@ -1,14 +1,16 @@
-# Hi, I'm Lucas Will! 👋
+# Welcome, I'm Lucas Will! 👋
 
-## About Me
-I'm passionate about web development using Python, Django, Django Rest Framework, ReactJS, and JavaScript.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lucas-will-84084222b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a/>
+</div>
+<br/>
 
-## Skills
-- Python
-- Django
-- Django Rest Framework
-- ReactJS
-- JavaScript
 
-## GitHub Commit Activity
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/lucaswillblumenau/lucaswillblumenau)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWillBlumenau&layout=compact&theme=vision-friendly-dark)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasWillBlumenau&show_icons=true&theme=radical)
+
+
